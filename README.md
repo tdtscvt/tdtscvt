@@ -1,7 +1,7 @@
 Trần Duy Tùng
 :date: 22/10/2003
 :books: Machine learning, AI
-:man_student: Freshman
+:man_student: Sophomore
 :school: University of Information Technology VNU-HCM
 :joystick: Games, Boardgames, Sports
 
